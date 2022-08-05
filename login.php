@@ -8,7 +8,7 @@
     <title>Вход в админку</title>
 </head>
 <body>
-    <h1>Вход в админку</h1>
+    <h2>Вход в админку</h2>
     <form action="admin/admin.php" method="post">
         <div class="form-group">
             <input type="text" placeholder="Введите логин">
