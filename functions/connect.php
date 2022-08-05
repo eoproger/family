@@ -1,6 +1,6 @@
 <?
 
-$user = "u1281236_EOprog";
+$user = "u1281236_eoprog";
 $password = "MVBsFv9Q4bGkhMK";
 $host = "localhost";
 $db = "u1281236_family_base";
