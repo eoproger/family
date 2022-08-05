@@ -11,8 +11,8 @@
     <h2>Вход в админку</h2>
     <form action="admin/admin.php" method="post">
         <div class="form-group">
-            <input type="text" placeholder="Введите логин">
-            <input type="text" placeholder="Введите пароль">
+            <input type="text" placeholder="Введите логин" name="login">
+            <input type="text" placeholder="Введите пароль" name="password">
             <button type="submit">Вход</button>
         </div>
     </form>
